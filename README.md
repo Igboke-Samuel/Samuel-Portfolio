@@ -62,5 +62,4 @@ My graphic design and visual communication work.
 
 ### Design
 - Photoshop
-- Canva
 - Visual Design
